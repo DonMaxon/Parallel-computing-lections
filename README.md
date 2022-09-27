@@ -9,3 +9,5 @@ Lection 3
 https://studfile.net/preview/1544152/page:7/
 http://www.ccas.ru/paral/prog/models.html
 https://studopedia.su/15_128763_parallelizm-dannih.html
+![image](https://user-images.githubusercontent.com/70652745/192500082-7d14e49c-394c-438e-b599-c35883c06b93.png)
+https://intuit.ru/studies/courses/584/440/lecture/9850?page=2
