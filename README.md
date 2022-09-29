@@ -1,4 +1,5 @@
 # Parallel-computing-lections
+https://vk.com/wall-31969346_2038356
 Lection 2
 https://intuit.ru/studies/courses/604/460/lecture/10337?page=2
 https://studopedia.ru/3_4621_sistemi-s-massovim-parallelizmom-mrr.html
