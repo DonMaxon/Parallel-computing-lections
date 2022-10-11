@@ -12,3 +12,5 @@ http://www.ccas.ru/paral/prog/models.html
 https://studopedia.su/15_128763_parallelizm-dannih.html
 ![image](https://user-images.githubusercontent.com/70652745/192500082-7d14e49c-394c-438e-b599-c35883c06b93.png)
 https://intuit.ru/studies/courses/584/440/lecture/9850?page=2
+Lection 4
+https://intuit.ru/studies/courses/542/398/lecture/9179?page=5&ysclid=l941p0tdye496489879
