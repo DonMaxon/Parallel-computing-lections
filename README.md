@@ -16,3 +16,4 @@ Lection 4
 https://intuit.ru/studies/courses/542/398/lecture/9179?page=5&ysclid=l941p0tdye496489879
 Lection 5
 https://intuit.ru/studies/courses/4447/983/lecture/14927
+https://parallel.uran.ru/node/182#:~:text=Локальные%20-%20не%20инициируют%20пересылок,являются%20локальными%2C%20поскольку%20производят%20пересылку
