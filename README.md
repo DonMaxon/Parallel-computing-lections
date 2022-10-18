@@ -17,3 +17,4 @@ https://intuit.ru/studies/courses/542/398/lecture/9179?page=5&ysclid=l941p0tdye4
 Lection 5
 https://intuit.ru/studies/courses/4447/983/lecture/14927
 https://parallel.uran.ru/node/182#:~:text=Локальные%20-%20не%20инициируют%20пересылок,являются%20локальными%2C%20поскольку%20производят%20пересылку
+http://repo.ssau.ru/bitstream/Metodicheskie-ukazaniya/Nachalnye-svedeniya-dlya-raboty-na-vychislitelnom-klastere-Elektronnyi-resurs-metod-ukazaniya-dlya-kurs-i-diplom-proektirovaniya-i-ucheb-issled-raboty-studentov-54054/1/Попов%20С.Б.%20Нач.%20свед.%20для%20работы.pdf?ysclid=l9e1zkwsic691077373
