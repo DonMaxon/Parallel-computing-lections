@@ -14,3 +14,5 @@ https://studopedia.su/15_128763_parallelizm-dannih.html
 https://intuit.ru/studies/courses/584/440/lecture/9850?page=2
 Lection 4
 https://intuit.ru/studies/courses/542/398/lecture/9179?page=5&ysclid=l941p0tdye496489879
+Lection 5
+https://intuit.ru/studies/courses/4447/983/lecture/14927
