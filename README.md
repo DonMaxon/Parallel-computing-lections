@@ -20,3 +20,4 @@ https://parallel.uran.ru/node/182#:~:text=Локальные%20-%20не%20ини
 http://repo.ssau.ru/bitstream/Metodicheskie-ukazaniya/Nachalnye-svedeniya-dlya-raboty-na-vychislitelnom-klastere-Elektronnyi-resurs-metod-ukazaniya-dlya-kurs-i-diplom-proektirovaniya-i-ucheb-issled-raboty-studentov-54054/1/Попов%20С.Б.%20Нач.%20свед.%20для%20работы.pdf?ysclid=l9e1zkwsic691077373
 Lection 6
 https://intuit.ru/studies/courses/1058/235/lecture/6095?page=2
+http://rsusu1.rnd.runnet.ru/tutor/method/m2/page09.html#:~:text=Коллективные%20коммуникации%20не%20взаимодействуют%20с,что%20другие%20процессы%20завершили%20операцию
