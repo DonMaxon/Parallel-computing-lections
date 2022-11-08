@@ -24,3 +24,6 @@ http://rsusu1.rnd.runnet.ru/tutor/method/m2/page09.html#:~:text=Коллекти
 Lection 7
 http://ifn.kemsu.ru/edu_materials_ict/mps/html/node3_22.htm
 https://studfile.net/preview/2238479/page:12/
+Lection 8
+http://rsuib.cc.rsu.ru/tutor/high_performance_computing/chapter4/page17.html
+https://intuit.ru/studies/professional_skill_improvements/17561/courses/984/lecture/14945?page=2
